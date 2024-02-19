@@ -21,6 +21,6 @@ Usage
 ```bash
     sim_params L N 
     Commands:
-        L   Calculate the particle mass given the number...
-        N   Calculate the number of particles given the...
+        L   sidelength (in h^{-1} Mpc)
+        N   number of particles
 ```
