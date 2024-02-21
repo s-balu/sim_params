@@ -6,7 +6,7 @@ sim_params calculates the particle mass of a cosmological *N*-body simulation gi
 
 ## Installation
 
-To install and use the sim_params:
+To install and use sim_params:
 
 1. **Clone the repository**:
    ```bash
